@@ -13,10 +13,6 @@ post_format: []
 teaser:
     - disable
 ---
-<table border="0" *="border-right: 0px; border-top: 0px; margin-top: 5px; float: left; margin-bottom: 5px; border-left: 0px; margin-right: 5px; border-bottom: 0px; border-collapse: collapse; border-spacing: 0"><tbody><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px">![](../../../../uploads/YosriMay2005JalanPetaling_new.JPG)</td></tr><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td class="caption" *="padding: 0px; width: 300px;">Picture Courtesy [Wikipedia](http://en.wikipedia.org/wiki/Image:YosriMay2005JalanPetaling.JPG)
-
-</td></tr></tbody></table>
-
 Golden dragons sit atop the striking green fa?ade, flanked by [golden arches](http://en.wikipedia.org/wiki/Golden_Arches) on the left and (overpriced) gold topped taxis beneath. A unsightly blue roof stretches along the entire street, designed to keep out the elements and whatever little charm the facade has to offer. “Jalan Petaling,” the multilingual signboard suspended from the lowest tier says. Petaling Street.
 
 Petaling Street, a narrow stretch of road in downtown Kuala Lumpur is the green dragon facaded, blue roofed home to a gigantic flea market selling bootleg merchandise. Fittingly, the market operates from dawn to midnight, drawing an enormous throng of bargain hunters looking for Rolexes and Patek Philippes; Guesses, Guccis, Givenchys and Louis Vittons; Star Wars and Flight Plan and Sims and Civilization and food.
@@ -59,7 +55,7 @@ Cue the next person in. Thin. Male. Dirty white shirt. Button-down, adding to th
 
 “Don’t joke boss, this is our business.”
 
-\*\*\*
+---
 
 Ring moves away. Eat-me comes back. I duck into McDonalds and buy a tea and sit down at a table. I must’ve been halfway through the tea when a young man in a yellow shirt approaches me.
 
