@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Literature and Life',
   author: 'Karthik Narasimhan',
   headerTitle: 'karpanai',
-  description: 'Real and the imaginary. A Lit blog, tech blog.',
+  description: 'the real and the imaginary. literature and life.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://karpanai.io',
