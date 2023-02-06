@@ -5,8 +5,8 @@ const siteMetadata = {
   description: '',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://stochastica.net',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://karpanai.io',
+  siteRepo: 'https://github.com/karpanai/karpanai-web',
   siteLogo: '/static/images/logo.svg',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',

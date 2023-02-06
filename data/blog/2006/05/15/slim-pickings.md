@@ -15,8 +15,6 @@ teaser:
 aktt_notify_twitter:
     - 'yes'
 ---
-<table *="margin-top: 5px; float: left; margin-bottom: 5px; margin-right: 5px; border-collapse: collapse; border-spacing: 0pt; border: 0px;"><tbody><tr *="padding: 0px;"><td *="padding: 0px;">![](../../../../uploads/girl_new.jpg)</td></tr></tbody></table>
-
 [Sonia Faleiro’s](soniafaleiro.blogspot.com) [The Girl](www.soniafaleiro.com), a book I’d briefly mentioned in [this post](http://www.sepiamutiny.com/sepia/archives/002930.html "Wrist friendly reads (1/30/2006)") at Sepia Mutiny, is a melancholy novel set in Goa about two men and *The Girl* they both loved. The book begins with the young woman’s suicide – yet another tragedy in cursed Azul – and the two men are “achingly curious” to find out why. And when one of them stumbles upon her journal, they use it to reconstruct her life leading up to the suicide – the death of an unhappy woman whose last big hope had vanished.
 
 Just a few pages into the novel, and it is obvious that it is as much about showcasing the writing as it is about the actual plot. The Girl is a carefully crafted book: every sentence is meticulously assembled from deliberately chosen words, each page is filled with precise paragraphs construced from meticulously assembled sentences.

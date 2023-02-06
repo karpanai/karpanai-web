@@ -16,4 +16,4 @@ An “assault” job, is a job done effortlessly, nonchalantly. You can do such 
 
 When you have a feeling” for someone you are actually upset.And then the old classic – repair* something and it is broken – you probably need a *“drinks*” or two to drown your *feelings*.
 
-Another reason to [let the language grow](http://stochastica.blogspot.com/2005/01/fools-paradise.html). A few centuries from now a Tamil dictionary will list these as Tamil words (with an quick little etymological bow to English…)
+Another reason to [let the language grow](/blog/2005/01/fools-paradise.html). A few centuries from now a Tamil dictionary will list these as Tamil words (with an quick little etymological bow to English…)

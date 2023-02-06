@@ -13,10 +13,6 @@ post_format: []
 teaser:
     - disable
 ---
-<table *="border-right: 0px; border-top: 0px; margin-top: 10px; float: left; margin-bottom: 10px; border-left: 0px; margin-right: 10px; border-bottom: 0px; border-collapse: collapse; border-spacing: 0"><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px">![](../../../../uploads/chithiram1_new.jpg)</td></tr><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td class="caption" *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; width: 277px; padding-top: 0px">Bhavna clutching an umbrella, Sunil clutching an underarm.
-
-</td></tr></table>
-
 The boy: toughie, hired goon, bearded brute, all rough edges and bad acting, tall and dark and not so handsome.
 
 The girl: heart that bleeds for all, assists helpless people cross roads, smooth and pretty and voluptuous and rich and pretty and smooth. Sigh. I mean, scratch the sigh.
@@ -24,10 +20,6 @@ The girl: heart that bleeds for all, assists helpless people cross roads, smooth
 How could they not fall in love? And how could he not turn over a new leaf, bringing a few oddball leaves along with him to keep him entertained at newdom? And how could their wedding plans not be rudely interrupted by her seeing him visit someplace not nice? And how could they not… well, no spoilers on this blog folks. By the way, for the record, this post is about a movie called Chithiram Pesudhadi.
 
 “Ordinary plot,” you want to say, “hackneyed and trite, tried and tested (and failed).” True, we say, the movie is all that, but it has a little bit more going for it – it is disarmingly unpretentious and heartwarmingly earnest. The earnestness of a first time director striving hard – very hard – within his contraints to salvage something out of a mediocre script shines through every frame, drawing empathy from his viewers, and Chithiram manages to get off with sympathetic winces where another movie would’ve gotten a groan or two.
-
-<table *="border-right: 0px; border-top: 0px; margin-top: 10px; float: right; margin-bottom: 10px; margin-left: 20px; border-left: 0px; border-bottom: 0px; border-collapse: collapse; border-spacing: 0"><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px">![](../../../../uploads/kathir_myshkin_new.jpg)</td></tr><tr *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; padding-top: 0px"><td class="caption" *="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; width: 300px; padding-top: 0px">Kathir, Myshkin
-
-</td></tr></table>
 
 The outlandishly named director of the movie – Myshkin – used to be called Raja before he decided to downgrade his name to something slightly less exalted and took on the name of the prince in [Dostoevsky’s Idiot](http://en.wikipedia.org/wiki/The_Idiot_%28novel%29). Myshkin had possibly the worst start to his career one can imagine, when he had a chance meeting with director Kadhir at a bookstore. One thing led to another and Myshkin soon was assisting [Kathir](http://www.imdb.com/name/nm0997190/) in some of his movies.
 
