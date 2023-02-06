@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Literature and Life',
   author: 'Karthik Narasimhan',
-  headerTitle: 'etcetera',
-  description: '',
+  headerTitle: 'karpanai',
+  description: 'Real and the imaginary. A Lit blog, tech blog.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://karpanai.io',
@@ -10,12 +10,8 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.svg',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  email: 'glacier02.flume@icloud.com',
+  twitter: 'https://twitter.com/nkarthik',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
