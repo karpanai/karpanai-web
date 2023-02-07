@@ -84,4 +84,38 @@ module.exports = withBundleAnalyzer({
 
     return config
   },
+  async redirects() {
+     return [
+       {
+         source: '/2005/:slug*',
+         destination: '/blog/2005/:slug*', // Matched parameters can be used in the destination
+         permanent: true,
+       },
+       {
+        source: '/2006/:slug*',
+        destination: '/blog/2006/:slug*', // Matched parameters can be used in the destination
+        permanent: true,
+      },
+      {
+        source: '/2007/:slug*',
+        destination: '/blog/2007/:slug*', // Matched parameters can be used in the destination
+        permanent: true,
+      },
+      {
+        source: '/2008/:slug*',
+        destination: '/blog/2008/:slug*', // Matched parameters can be used in the destination
+        permanent: true,
+      },
+      {
+         source: '/2009/:slug*',
+         destination: '/blog/2009/:slug*', // Matched parameters can be used in the destination
+         permanent: true,
+       },
+       {
+         source: '/2010/:slug*',
+         destination: '/blog/2010/:slug*', // Matched parameters can be used in the destination
+         permanent: true,
+       },
+     ]
+   }
 })

@@ -1,5 +1,5 @@
 ---
-title: '&#8220;Reclusive writer one of the best,&#8221; says Blogger'
+title: '"Reclusive writer one of the best", says Blogger'
 date: '2005-12-20T14:13:54-04:00'
 status: publish
 permalink: /2005/12/20/reclusive-writer-one-of-the-best-says-blogger

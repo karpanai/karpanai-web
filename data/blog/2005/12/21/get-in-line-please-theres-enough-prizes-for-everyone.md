@@ -1,5 +1,5 @@
 ---
-title: 'Get in line, please &#8211; there&#8217;s enough prizes for everyone!'
+title: 'Get in line, please writers - there are enough prizes for everyone!'
 date: '2005-12-21T11:21:05-04:00'
 status: publish
 permalink: /2005/12/21/get-in-line-please-theres-enough-prizes-for-everyone
