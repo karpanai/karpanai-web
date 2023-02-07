@@ -117,8 +117,8 @@ module.exports = withBundleAnalyzer({
          permanent: true,
        },
        {
-         source: '/about-me/',
-         destination: '/about/', // Matched parameters can be used in the destination
+         source: '/about-me',
+         destination: '/about', // Matched parameters can be used in the destination
          permanent: true,
        },
      ]
