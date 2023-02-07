@@ -16,8 +16,8 @@ post_format: []
 
 His faithful wife assembled a few people together Saturday for a morbid ceremony where a
 
-> \[…\] a combination of fireworks and the writer’s ashes were blasted into the sky from the top of a 153ft tower in a series of red, white, blue and green flashes.
+> \[…\] a combination of fireworks and the writer's ashes were blasted into the sky from the top of a 153ft tower in a series of red, white, blue and green flashes.
 
-Can*n*onization, alright. I’ve heard rumors that he’ll be called Sain*n*t Thompson from now on.
+Can*n*onization, alright. I've heard rumors that he'll be called Sain*n*t Thompson from now on.
 
 Through the [Indpendent](http://news.independent.co.uk/world/americas/article307418.ece).

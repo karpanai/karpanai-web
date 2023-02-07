@@ -13,9 +13,9 @@ post_format: []
 ---
 [Ghajini](http://www.ghajini.com/), starring Surya and Asin and directed by A.R. Murugadoss is a remake of [Memento](http://www.imdb.com/title/tt0209144/). Yes, that Memento. If you have even a passing familiarity with the film industry in India, you will know right away that a remake of a Hollywood classic means a watered down version that takes the original premise, and somehow contrives to wrap it around a “love-story,” five songs, seventeen fight sequences, and several voice overs that explain crucial plot points to the audience. And so, there is a certain recalibration of expectations that is required to enjoy such remakes.
 
-Viewed from a lens thus recalibrated, Ghajini is an eminently enjoyable movie. Murugadoss borrows the rudimentary plot from Memento – revenge of the amnesiac – and manages to Indianise it without too many holes. The scriptwork and screenplay are tidy, and the dialogues refreshingly down to earth. Even the two heroines don’t seem too out of place in the script and that in itself is an achievement.
+Viewed from a lens thus recalibrated, Ghajini is an eminently enjoyable movie. Murugadoss borrows the rudimentary plot from Memento – revenge of the amnesiac – and manages to Indianise it without too many holes. The scriptwork and screenplay are tidy, and the dialogues refreshingly down to earth. Even the two heroines don't seem too out of place in the script and that in itself is an achievement.
 
-Surya and Asin act reasonably well and Nayanthara has a role that is peripheral enough that her performance doesn’t matter too much. Although, I must admit I was a little traumatized when I saw her dance to an item number – every part of her literally shook, and in a startling reminder of Newton’s first law, certain parts kept shaking even after she had stopped dancing.
+Surya and Asin act reasonably well and Nayanthara has a role that is peripheral enough that her performance doesn't matter too much. Although, I must admit I was a little traumatized when I saw her dance to an item number – every part of her literally shook, and in a startling reminder of Newton's first law, certain parts kept shaking even after she had stopped dancing.
 
 \*Digression\* If you are a college professor who came to this page through Google looking for “Nayanthara, shaking, Newton,” feel free to ignore my Creative Commons license and use this example to teach Newton to your students. You can even take them on a field trip to the nearest movie theater playing Ghajini. \*End Digression\*
 
@@ -37,7 +37,7 @@ Harris mumbles, then stops, grins, scratches his hair, picks his nose and mumble
 
 Harris mumbles again. “Do you think my hair is long enough?”
 
-“Let us get this straight man – you do a pathetic Rahman imitation. Now answer my frickin’ question.”
+“Let us get this straight man – you do a pathetic Rahman imitation. Now answer my frickin' question.”
 
 “Hmm, it is good. Grunt. Umm. The flashback is funny. But the rest of it is very serious. Need more comedy.”
 
@@ -53,7 +53,7 @@ Watch we did. And we are glad to report that Harris was very, very successful in
 
 Whenever Surya shows up on screen, a voice screams in the background:
 
-“Bo Zo….. Bo Zo. Booooo…. Zooooo.” The speed of the chant varies according to the need of the scene (*naturally*). To ensure that the same joke doesn’t get repeated too often the next time Surya shows up, the same voice chants:
+“Bo Zo….. Bo Zo. Booooo…. Zooooo.” The speed of the chant varies according to the need of the scene (*naturally*). To ensure that the same joke doesn't get repeated too often the next time Surya shows up, the same voice chants:
 
 “Zo Lo.. Zo Lo…Zo Lo”.
 
@@ -63,7 +63,7 @@ I have to admit, it had me in splits. Great job, dude.
 
 “Dad, I have this role in this new movie and I am supposed to be an amnesiac for good two hours. Any advice?”
 
-“Drink coconut water, don’t smoke, don’t drink, do Yoga and get out of your relationship with Jothika.”
+“Drink coconut water, don't smoke, don't drink, do Yoga and get out of your relationship with Jothika.”
 
 “Dad, I asked for acting tips, not this crap.”
 

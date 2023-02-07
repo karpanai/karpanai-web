@@ -23,17 +23,17 @@ Last night, Smith wanted me to go to [The Myth](http://www.imdb.com/title/tt0365
 
 **Me:** Please, I hate being interrupted. Let me continue here. Narrative detail, on the other hand, is different. The reading audience has more patience than moviegoers, and will tolerate even digressive, detailed narratives better. The moviegoer has a limited attention span, and too much detail – *man waking up, stretching, brushing, showering* – usually does not go down well.
 
-**Mr. Smith:** That’s coz people that read are fools. And yes, too much detail stinks unless it is a girl bathing. There is this movie in Malayalam where they show a girl taking a shower, and man it was very detailed and I liked it. Therefore, it is not like all details are bad. So,there you go.
+**Mr. Smith:** That's coz people that read are fools. And yes, too much detail stinks unless it is a girl bathing. There is this movie in Malayalam where they show a girl taking a shower, and man it was very detailed and I liked it. Therefore, it is not like all details are bad. So,there you go.
 
-**Me:** What’s your point?
+**Me:** What's your point?
 
-**Mr. Smith:** My point is, the movie sucked. It was long, and the dude that acted in it kept crying. The girl was fully clothed throughout, and she was crying whenever he didn’t. So why don’t you just tell people that instead of going on and on about details?
+**Mr. Smith:** My point is, the movie sucked. It was long, and the dude that acted in it kept crying. The girl was fully clothed throughout, and she was crying whenever he didn't. So why don't you just tell people that instead of going on and on about details?
 
 **Me:** Aw, come on. A twenty word review on this blog? Scandalous.
 
 **Mr. Smith:** Whatever. Go on and wake me up when you are done talking.
 
-**Me:** Cheran’s Thavamai Thavamirunthu is a son’s tribute to his father. Rajkiran does an outstanding job as his dad that puts the welfare of his kids above his needs, and Cheran is the kid that never forgets how much his dad did for him. Once Cheran decided that this was going to be his premise, he look no further than Autograph: he took the movie and retooled it, using the same technique of a guy reminiscing about the past intercut with sequences from the present. The problem with the movie here is that it lacked the freshness of Autograph…
+**Me:** Cheran's Thavamai Thavamirunthu is a son's tribute to his father. Rajkiran does an outstanding job as his dad that puts the welfare of his kids above his needs, and Cheran is the kid that never forgets how much his dad did for him. Once Cheran decided that this was going to be his premise, he look no further than Autograph: he took the movie and retooled it, using the same technique of a guy reminiscing about the past intercut with sequences from the present. The problem with the movie here is that it lacked the freshness of Autograph…
 
 **Mr. Smith:** Wait, you mean you liked Autograph? Freshness? You are a mushy piece of…
 
@@ -43,28 +43,28 @@ Last night, Smith wanted me to go to [The Myth](http://www.imdb.com/title/tt0365
 
 **Me:** The problem with the movie was the length. It is obvious that Cheran wanted to make something that was deliberately paced, but deliberate pacing does not mean showing every single event in a sequence. When his wife delivers a baby in a hospital, the viewers know that the hero is broke. Yet Cheran has scenes of him not being able to pay the hospital, not having money to buy medicines, a scene of him riding a bicycle to try and borrow money and a scene of him coming back on the same bicycle without money.
 
-**Mr. Smith:** That was terrible! How can someone watch a guy riding a bike for five minutes? Although I am pleased he didn’t wear Spandex. In fact, the movie was so boring, I’d rather have read your blog for three hours. Ha Ha!
+**Mr. Smith:** That was terrible! How can someone watch a guy riding a bike for five minutes? Although I am pleased he didn't wear Spandex. In fact, the movie was so boring, I'd rather have read your blog for three hours. Ha Ha!
 
 **Me:** What else, smartass?
 
-**Mr. Smith:** Why don’t you tell them how the dude managed to make his classmate pregnant? Or how she cries and cries for half the movie because of this? About how he tells his dad he could not face him after “defiling” a girl? Now, what the heck is that supposed to mean?
+**Mr. Smith:** Why don't you tell them how the dude managed to make his classmate pregnant? Or how she cries and cries for half the movie because of this? About how he tells his dad he could not face him after “defiling” a girl? Now, what the heck is that supposed to mean?
 
 **Me:** Yeah, true. That was bad. Now please, get off the girl, and say something else.
 
-**Mr. Smith:** Oh, I see. Let’s talk music.
+**Mr. Smith:** Oh, I see. Let's talk music.
 
 **Me:** Sure. The music was pretty average…
 
 **Mr. Smith:** Shut up, let me take over. The music was hideous, horrid and unpalatable. Some people cannot do slow songs ever. It was like reading Joyce while watching Will and Grace. Torture.
 
-**Me:** Yeah, I think I’ll agree with you there.
+**Me:** Yeah, I think I'll agree with you there.
 
 **Mr. Smith:** Cool. So there you have it folks, Sucky movie. Too long. Too much crying. Bad music.
 
-**Me:** In the interest of balance, I should say that the good things about the movie were, Rajkiran’s performance and well… At least I tried.
+**Me:** In the interest of balance, I should say that the good things about the movie were, Rajkiran's performance and well… At least I tried.
 
 **Mr. Smith:** And when the critics try to tell you the movie was well-made and touching, please laugh.
 
-I’d like to go on record that this review is not totally mine, and please don’t accuse me of snobbery. I love you all.
+I'd like to go on record that this review is not totally mine, and please don't accuse me of snobbery. I love you all.
 
 [Cross-posted](http://www.teakada.com/archives/001600.html) at [teakada.](http://www.teakada.com)

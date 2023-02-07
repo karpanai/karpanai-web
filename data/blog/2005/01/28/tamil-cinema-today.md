@@ -11,7 +11,7 @@ tags:
     - 'Movies'
 post_format: []
 ---
- A Vairamuthu interview to kick off the day. First the good news. [Vairamuthu is not writing for Rajinikanth’s Chandramukhi.](http://www.thatstamil.com/specials/cinema/interview/vairamuthu.html) But he says, every “micro-second” of his life contains poetry. Like [so:](http://www.thatstamil.com/specials/cinema/shooting-spot/shriya.html)
+ A Vairamuthu interview to kick off the day. First the good news. [Vairamuthu is not writing for Rajinikanth's Chandramukhi.](http://www.thatstamil.com/specials/cinema/interview/vairamuthu.html) But he says, every “micro-second” of his life contains poetry. Like [so:](http://www.thatstamil.com/specials/cinema/shooting-spot/shriya.html)
 
 > “Princess of Istanbul (!)  
 > Heat up the land with your kisses” (from Mazhai)

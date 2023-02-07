@@ -15,11 +15,11 @@ post_format: []
 
 **Mr. Thief**: “*Heh.*”
 
-**Judge**: “*Heh? That’s all you have to say about it?*”
+**Judge**: “*Heh? That's all you have to say about it?*”
 
-**Mr. Thief**: “*Heh is the sound of me laughing self-righteously. I would like to let you know that I didn’t do it. It was an invisible man that killed the manager and stole all the gold.*”
+**Mr. Thief**: “*Heh is the sound of me laughing self-righteously. I would like to let you know that I didn't do it. It was an invisible man that killed the manager and stole all the gold.*”
 
-**Judge**: “*That’s bullsh.., I mean, impossible.*”
+**Judge**: “*That's bullsh.., I mean, impossible.*”
 
 **Mr. Thief**: “[*When you have eliminated the impossible, whatever remains, however improbable, must be the truth.*](http://www.quotationspage.com/quote/83.html)”
 
@@ -31,7 +31,7 @@ post_format: []
 
 **Mr. Thief**: “*As a matter of fact, I do. I would like to call [H.G Wells](http://en.wikipedia.org/wiki/H.g._wells) to the stand.*”
 
-**Judge**: “*But he is dead, I thought. Or maybe that’s [Orson Wells](http://en.wikipedia.org/wiki/Orson_Wells)*.” Checks with someone. “*Yeah, they are both dead.*”
+**Judge**: “*But he is dead, I thought. Or maybe that's [Orson Wells](http://en.wikipedia.org/wiki/Orson_Wells)*.” Checks with someone. “*Yeah, they are both dead.*”
 
 **Mr. Thief**: “*Too bad, I will call [Ram Gopal Verma ](http://en.wikipedia.org/wiki/Ram_Gopal_Verma)instead. He made a movie called [Gayab](http://www.imdb.com/title/tt0414040/), and can use the scientific expertise he gained during the making of the movie to prove that invisible men are not impossible.*”
 

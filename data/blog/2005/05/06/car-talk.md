@@ -35,7 +35,7 @@ We left.
 
 \_\_\_\_\_\_\_\_\_\_
 
-Later, much later, we head back to our car one evening, and it wouldn’t start because we had left the lights on. We wait outside the car trying to flag down someone for a jump start. Cue the arrival of a knight in shining armor. An Indian knight to boot. Shining Armor being a gleaming, black BMW. Knight gets down, and asks us, “Can I help you guys?”
+Later, much later, we head back to our car one evening, and it wouldn't start because we had left the lights on. We wait outside the car trying to flag down someone for a jump start. Cue the arrival of a knight in shining armor. An Indian knight to boot. Shining Armor being a gleaming, black BMW. Knight gets down, and asks us, “Can I help you guys?”
 
 “Yeah, can you give us a jumpstart? I have the cables right here.”
 
@@ -49,6 +49,6 @@ After this pretty cryptic explanation, he mutters someting about trunks, and goe
 
 “Is there a problem?” I ask.
 
-“Well, um, not really. But I can’t seem to find the battery in my car.”
+“Well, um, not really. But I can't seem to find the battery in my car.”
 
 “Oh!” With suppressed grins, we see the knight off, and start waiting for another one in armor less shiny.

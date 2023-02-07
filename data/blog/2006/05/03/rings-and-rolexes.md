@@ -30,15 +30,15 @@ And hence, I choose to stand guard at the dragons while the wife enters the mark
 ---
 A young man wearing a shirt that requests people to consume him walks up real close to me, and smiles. I smileback. “DVD, boss?” he asks. “I got all good movies.”
 
-What followed was chaos. Before I could answer, he walks up sneakily behind another person who is not wearing a shirt – his friend, I would learn later. Eat Me then loudly screams into the shirtless guy’s ear, scaring shirtless out of his wits. Shirtless turns around and angrily shoves Eat-Me, who staggers back into the waiting arms of an old Englishman who lets out a startled scream himself and then recovers enough to say “Wot?”
+What followed was chaos. Before I could answer, he walks up sneakily behind another person who is not wearing a shirt – his friend, I would learn later. Eat Me then loudly screams into the shirtless guy's ear, scaring shirtless out of his wits. Shirtless turns around and angrily shoves Eat-Me, who staggers back into the waiting arms of an old Englishman who lets out a startled scream himself and then recovers enough to say “Wot?”
 
 Eat-Me grins insolently, puts his arm around Englishman and asks him, “You want DVDs?”
 
-“No, and don’t touch me. I don’t want to be touched.”
+“No, and don't touch me. I don't want to be touched.”
 
 EatMe finds this hilarious, so he laughs very loudly and punches me on the stomach.
 
-“Don’t touch me, ha-ha-ha, Don’t touch me. You want DVD boss?”
+“Don't touch me, ha-ha-ha, Don't touch me. You want DVD boss?”
 
 “I would love to, but that Rolex burnt a big hole in my pocket.” Proud grin accompanies bad joke. Eat-me looks bemused and then leaves.
 
@@ -53,11 +53,11 @@ Cue the next person in. Thin. Male. Dirty white shirt. Button-down, adding to th
 
 “No, I was joking.”
 
-“Don’t joke boss, this is our business.”
+“Don't joke boss, this is our business.”
 
 ---
 
-Ring moves away. Eat-me comes back. I duck into McDonalds and buy a tea and sit down at a table. I must’ve been halfway through the tea when a young man in a yellow shirt approaches me.
+Ring moves away. Eat-me comes back. I duck into McDonalds and buy a tea and sit down at a table. I must've been halfway through the tea when a young man in a yellow shirt approaches me.
 
 “Sir, when are you leaving?”
 
@@ -76,7 +76,7 @@ Back outdoors. Ring spots me first.
 
 “I got Tag also. See this watch, runs only on body heat. Also Bentley. Buy one boss.”
 
-“I don’t want anything.”
+“I don't want anything.”
 
 Ring leaves, only to reappear in a minute.
 
@@ -97,23 +97,23 @@ EatMe falls hard on the ground, and does a backwards somersault, landing right i
 
 “You will think I am mad boss,” he says, with the now obligatory punch on my stomach.
 
-“Why?” I respond, stunned. “I don’t think that.”
+“Why?” I respond, stunned. “I don't think that.”
 
 “No, you will think now boss if I say I will sell you DVD for only 5 Ringgits. You are my friend.”
 
 This here was a mind reading moron.
 
-“Sorry.” I rush back into the McDonalds, back into the hands of my yellow shirted friend who can’t stay away from me for more than a minute.
+“Sorry.” I rush back into the McDonalds, back into the hands of my yellow shirted friend who can't stay away from me for more than a minute.
 
 ---
 More tea later, the wife shows up. Looking cheery and refreshed. I whisk her away in a hurry, before my new friends spot her and insist on being introduced.
 
 “You look grumpy?”
 
-“Not grumpy, just sad. I wish I’d said goodbye to him.”
+“Not grumpy, just sad. I wish I'd said goodbye to him.”
 
 “Who?”
 
-“Don’t worry about it…”
+“Don't worry about it…”
 
 ---

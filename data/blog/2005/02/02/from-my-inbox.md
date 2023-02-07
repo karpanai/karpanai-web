@@ -13,6 +13,6 @@ post_format: []
 ---
  Sent 3 weeks after a party. I swear I am not making this up.
 
-> “I’m sorry for bothering you all with this.  
-> Recently I realized that my slippers (Alpine, 10″) got exchanged with a someone’s else (State Street, 9 1/2″) and am not comfortable with the same. If any one of you felt that way \[:-)\], please email back so that we can address accordingly. You can also reach me on: xxx-xxx-xxx.  
+> “I'm sorry for bothering you all with this.  
+> Recently I realized that my slippers (Alpine, 10″) got exchanged with a someone's else (State Street, 9 1/2″) and am not comfortable with the same. If any one of you felt that way \[:-)\], please email back so that we can address accordingly. You can also reach me on: xxx-xxx-xxx.  
 > Appreciate your help.”

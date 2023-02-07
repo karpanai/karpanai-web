@@ -13,4 +13,4 @@ post_format: []
 ---
 Finally, Motorola is starting to generate some [positive buzz](http://www.msnbc.msn.com/id/7102433/site/newsweek/). The Razr is like the coolest cellphone ever – the iPod of cellphones.
 
-> For example, Motorola execs talk of a forthcoming music phone within the Razr family, Rockr, that might recognize songs being played in a club, let users download them to their phones and then send them home to their cable boxes and stereos. That would definitely be cool, and for Motorola, that’s the goal.
+> For example, Motorola execs talk of a forthcoming music phone within the Razr family, Rockr, that might recognize songs being played in a club, let users download them to their phones and then send them home to their cable boxes and stereos. That would definitely be cool, and for Motorola, that's the goal.

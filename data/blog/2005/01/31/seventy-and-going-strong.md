@@ -12,4 +12,4 @@ tags:
 post_format: []
 ---
  ![ ](http://www.erudita.com/images/blog/appa_amma.jpg "Dad and Mom ... they dont look a day over 20 :) ")  
-Happy birthday Appa and God bless you! You are the kindest person I’ve known in my life.
+Happy birthday Appa and God bless you! You are the kindest person I've known in my life.

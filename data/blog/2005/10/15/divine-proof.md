@@ -11,7 +11,7 @@ tags:
     - 'Movies'
 post_format: []
 ---
-Let’s call this guy Krishna, because I don’t know what his real name is. He is an assistant director in Tamil movies, and like everyone else employed thus, his life is
+Let's call this guy Krishna, because I don't know what his real name is. He is an assistant director in Tamil movies, and like everyone else employed thus, his life is
 
 a) currently very miserable.  
 b) centered around dreams of making it big some day.
@@ -30,13 +30,13 @@ A few months on, the large production house announces a *big budget* movie. And 
 
 Proceeds to narrate it.
 
-“That’s pretty good. But you could’ve just sneaked a peek at it when it was lying around somewhere. Got more proof?”
+“That's pretty good. But you could've just sneaked a peek at it when it was lying around somewhere. Got more proof?”
 
 “Sir, yes sir. I will now tell you exactly when and where I narrated the screenplay to the head of the large production house.”
 
 Proceeds to tell them exactly when and where he narrated the screenplay to the head of the large production house.
 
-“And that’s proof? Give us something more concrete man.”
+“And that's proof? Give us something more concrete man.”
 
 “I will go to the temple of your choice, light some camphor and swear in front of the deity of your choice that it is my story. I dare you to ask the head of the large production house to do the same thing sir.”
 
@@ -46,4 +46,4 @@ Other members of the arbitration committee nod sagely.
 
 No not 55-word story that ran over, though I wish it was. This came straight out of this story from an online newsmagazine. [Link (in Tamil).](http://www.tamilcinema.com/CINENEWS/Hotnews/2005/oct/121005a.asp) The only part I made up was the line about the arbitration committee members nodding sagely.
 
-I believe this legal strategy has a lot of potential. For starters, I sent an email to [Mr. Banville](http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author-exact=John%20Banville&rank=-relevance%2C%2Bavailability%2C-daterank/102-4479095-3020910) today claiming that The Sea was my work. I’ll even go to a church if he wants me to.
+I believe this legal strategy has a lot of potential. For starters, I sent an email to [Mr. Banville](http://www.amazon.com/exec/obidos/search-handle-url/index=books&field-author-exact=John%20Banville&rank=-relevance%2C%2Bavailability%2C-daterank/102-4479095-3020910) today claiming that The Sea was my work. I'll even go to a church if he wants me to.

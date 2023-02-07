@@ -15,7 +15,7 @@ post_format: []
 
 *There are multiple scrolls for every visitor (for the preordainers knew exactly who would visit) : a general one that provides an executive summary of life, and more specialized scrolls that zero in on specific aspects. Among these is is a scroll that talks about the manner of death that awaits the visitor. Hardly anyone who visits the astrologers wants to know what their scroll of death says. For even if you know, you cannot change fate. Or can you?*
 
-[Kazuo Ishiguro’s](http://en.wikipedia.org/wiki/Kazuo_Ishiguro) [Never Let Me Go](http://www.amazon.com/exec/obidos/tg/detail/-/1400043395/qid=1128329713/sr=8-1/ref=pd_bbs_1/103-9916904-2125452?v=glance&s=books&n=507846), his third novel to make the [Man Booker](http://en.wikipedia.org/wiki/Man_Booker_Prize) shortlist, is a simple, beautifully textured novel that is not quite what it appears to be on the surface.
+[Kazuo Ishiguro's](http://en.wikipedia.org/wiki/Kazuo_Ishiguro) [Never Let Me Go](http://www.amazon.com/exec/obidos/tg/detail/-/1400043395/qid=1128329713/sr=8-1/ref=pd_bbs_1/103-9916904-2125452?v=glance&s=books&n=507846), his third novel to make the [Man Booker](http://en.wikipedia.org/wiki/Man_Booker_Prize) shortlist, is a simple, beautifully textured novel that is not quite what it appears to be on the surface.
 
 A young woman named Kathy H runs into two of her closest friends – Ruth and Tommy – in unusual circumstances and starts reminiscing about their shared past. That past is deceptively normal – life at Hailsham, a boarding school not dissimilar to the ones in those Enid Blyton books of yore, with normal boarding school type things happening: friendships, fistfights, heartbreaks and the general feeling of happiness that seems to prevail in such societies of young people. But like a clever composer injecting occasional melancholy notes in an otherwise merry musical score, Ishiguro uses the subtlest twists of language – an odd word here, an unusual phrase there – to tell you that through the seeming veneer of normalcy, something is just not right.
 
@@ -27,7 +27,7 @@ After school the three friends drift apart, and their lives diverge until they r
 
 There is some science in the book, but it is all incidental – Never Let Me Go is as much Science Fiction as say, Blind Assassin. Isihiguro uses a contemporary scientific development as a plot device to create a preordained society so that he can explore the questions raised in this review.
 
-The writing is very Ishiguro – laidback and precise – the simplest of words are employed, but when they are strung together in sentences, they magically acquire a lyrical feel to them. Ishiguro is one of the best prose stylists around, someone who realizes the virtue of simplicity. Where a Rushdie would have toyed with the words – Hail and Sham are particularly fertile words for febrile wordplay – Ishiguro just describes things exactly the way they are: what happened when, and how things were when it happened. If the characterization is trite (Kathy could be the narrator in any one of Ishiguro’s books), the stylish writing more than makes up for it.
+The writing is very Ishiguro – laidback and precise – the simplest of words are employed, but when they are strung together in sentences, they magically acquire a lyrical feel to them. Ishiguro is one of the best prose stylists around, someone who realizes the virtue of simplicity. Where a Rushdie would have toyed with the words – Hail and Sham are particularly fertile words for febrile wordplay – Ishiguro just describes things exactly the way they are: what happened when, and how things were when it happened. If the characterization is trite (Kathy could be the narrator in any one of Ishiguro's books), the stylish writing more than makes up for it.
 
 As Kathy reminisces, going back and forth in time, constructing a disjointed image of life at Hailsham, the reader identifies with her emotions. We want her to ask more, to find out more, but understand why she will not, why no one will. When life at school ends, we feel the way Kathy and her friends do – anxious and excited, and unusually resigned. Is this how we would be when confronted with something like this? (A Time article about the behavior of people in crises comes to mind – most everyone sits waiting for events to take their course).
 
@@ -35,7 +35,7 @@ Up to this point, the book was brilliant. And then came the ending – a let us 
 
 Overall, Never Let Me Go is a good book, but it is one that entertains more than it challenges.
 
-This post is part of [Veena’s Booker Mela](http://onayahuasca.blogspot.com/2005/08/2005-booker-mela.html).
+This post is part of [Veena's Booker Mela](http://onayahuasca.blogspot.com/2005/08/2005-booker-mela.html).
 
 Other Reviews:
 

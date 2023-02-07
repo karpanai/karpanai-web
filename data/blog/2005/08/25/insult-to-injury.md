@@ -16,17 +16,17 @@ We were in a little bit of a rush, but I wanted to go into the store “real qui
 
 Come back in 10 minutes.
 
-Just buy the ones you want, don’t just stand there gawking.
+Just buy the ones you want, don't just stand there gawking.
 
 I hurried in, and headed straight for the information counter. A winsome girl gave me smile just as winsome – but I remembered the second rule and asked her in my best business-like tone,
 
-> *“I’m looking for a book called Never Let Me Go.”*
+> *“I'm looking for a book called Never Let Me Go.”*
 > 
 > *“Author?”*
 > 
 > *“I-s-h-i-g-u-r-o”*
 > 
-> *“Sorry. Don’t have that author.”*
+> *“Sorry. Don't have that author.”*
 
 Uh-oh.
 
@@ -38,17 +38,17 @@ Uh-oh.
 > 
 > Taps on keyboard, *“Yes, we have.”*
 
-One out of two isn’t too bad.
+One out of two isn't too bad.
 
 > *“Ok, where is it?”*
 > 
 > *“No stock.”*
 > 
-> *“What does ‘we have’ mean?”*
+> *“What does ‘we have' mean?”*
 > 
 > *“Have in database.”*
 
-Damn. I start to walk out disappointed – not smart to sign up to review two books at [Veena’s Booker Mela](http://onayahuasca.blogspot.com/2005/08/2005-booker-mela.html) without checking for availability. Just then, the girl calls me,
+Damn. I start to walk out disappointed – not smart to sign up to review two books at [Veena's Booker Mela](http://onayahuasca.blogspot.com/2005/08/2005-booker-mela.html) without checking for availability. Just then, the girl calls me,
 
 > *“Sir.”*
 > 

@@ -15,23 +15,23 @@ teaser:
 ---
 *In which a forced break from blogging causes one to overcompensate by writing an overly long post.*
 
-I was sixteen. She must’ve been a few years older.
+I was sixteen. She must've been a few years older.
 
-I was the kid that snottily buried his head in a book through the hourlong bus ride to school, except to look at the occasional [poster](https://stochastica.net/2005/04/29/lost-in-translation/ "Lost In Translation (4/29/2005)"). After her, I was the kid that was starting to fantasize about burying the head elsewhere. Dirty thoughts, I know, but not as dirty as you think. I didn’t know all *that* then.
+I was the kid that snottily buried his head in a book through the hourlong bus ride to school, except to look at the occasional [poster](https://stochastica.net/2005/04/29/lost-in-translation/ "Lost In Translation (4/29/2005)"). After her, I was the kid that was starting to fantasize about burying the head elsewhere. Dirty thoughts, I know, but not as dirty as you think. I didn't know all *that* then.
 
-In truth, she wasn’t all that pretty. Thin and wiry and bespectacled and fair and squeaky and rude and unsmiling. But she wore exceptionally short skirts that fell just below the knee. *Can you imagine?* And traveled the same route as me every single day for two years, standing but a few feet away from me. And most important of all, she went to *Nrimala\[1\]* College. What could be hotter?
+In truth, she wasn't all that pretty. Thin and wiry and bespectacled and fair and squeaky and rude and unsmiling. But she wore exceptionally short skirts that fell just below the knee. *Can you imagine?* And traveled the same route as me every single day for two years, standing but a few feet away from me. And most important of all, she went to *Nrimala\[1\]* College. What could be hotter?
 
-Ever since a we’d heard that possibly apocryphal story about a bunch of girls at *Rinmala* and  the milkman that went to deliver milk to their hostel, the hotness quotient of everyone that spent any time at all in the general vicinity of the campus had increased by several orders of magnitude in our eyes. Especially because Rex – who assured us all that he *knew* – informed us that the story was very true. He also threw in a few details of the incident – *oh my!* – that made me think that being a milkman wouldn’t be a bad way to make a living.
+Ever since a we'd heard that possibly apocryphal story about a bunch of girls at *Rinmala* and  the milkman that went to deliver milk to their hostel, the hotness quotient of everyone that spent any time at all in the general vicinity of the campus had increased by several orders of magnitude in our eyes. Especially because Rex – who assured us all that he *knew* – informed us that the story was very true. He also threw in a few details of the incident – *oh my!* – that made me think that being a milkman wouldn't be a bad way to make a living.
 
-Could the girl on the bus be one of *those* girls, I wondered. And then hastily assured myself that she couldn’t have been. Given the time of the incident, she was probably in this very bus what that happened. Unless it was a predetermined crime, and she had stayed back that night. Quite possible, you know.
+Could the girl on the bus be one of *those* girls, I wondered. And then hastily assured myself that she couldn't have been. Given the time of the incident, she was probably in this very bus what that happened. Unless it was a predetermined crime, and she had stayed back that night. Quite possible, you know.
 
-And then one day, the girl didn’t show up. After she kept up the habit of not showing up for a few more days, I knew I had lost her – either she had graduated or she had fled the law. It must’ve been the latter – how could someone graduate in December anyway?
+And then one day, the girl didn't show up. After she kept up the habit of not showing up for a few more days, I knew I had lost her – either she had graduated or she had fled the law. It must've been the latter – how could someone graduate in December anyway?
 
-She had vanished without a word, my scheming shrew girlfriend. Thank God I hadn’t introduced her to my parents or bragged about her to Rex.
+She had vanished without a word, my scheming shrew girlfriend. Thank God I hadn't introduced her to my parents or bragged about her to Rex.
 
-We’d been seeing each other for a good year and a half, and what did I get out it? A sorry glimpse of knee.
+We'd been seeing each other for a good year and a half, and what did I get out it? A sorry glimpse of knee.
 
-This won’t do.
+This won't do.
 
 > “Man.”
 > 
@@ -45,9 +45,9 @@ This won’t do.
 > 
 > “Do still pictures count?”
 > 
-> “No. I’ve seen those in the Illustrated Weekly too.”
+> “No. I've seen those in the Illustrated Weekly too.”
 > 
-> “Then, damn. no dude. Don’t tell me you have.”
+> “Then, damn. no dude. Don't tell me you have.”
 > 
 > “Only a knee.”
 > 
@@ -63,7 +63,7 @@ This won’t do.
 > 
 > “Yeah.”
 > 
-> “This just won’t do.”
+> “This just won't do.”
 > 
 > “My thoughts exactly.”
 > 
@@ -79,7 +79,7 @@ A plan was hatched: We would go to a [morning show theater](https://stochastica.
 > 
 > “No way. My dad takes a bus through that place everyday.”
 > 
-> “Now that you mention it, it is on my dad’s route as well.”
+> “Now that you mention it, it is on my dad's route as well.”
 > 
 > “Padmalaya?”
 > 
@@ -87,15 +87,15 @@ A plan was hatched: We would go to a [morning show theater](https://stochastica.
 > 
 > “Swami?”
 > 
-> “Too close to my mom’s school.”
+> “Too close to my mom's school.”
 > 
 > “Oh you chicken.”
 > 
-> “Screw you. Let’s do Padmalaya then.”
+> “Screw you. Let's do Padmalaya then.”
 > 
 > “Ok. sorry. Jayshanthi, then. It is far away from the city.”
 > 
-> The silent third guy chimed in now: “But, that’s a stones throw from my house.”
+> The silent third guy chimed in now: “But, that's a stones throw from my house.”
 > 
 > “Umm.. too bad dude. The two of us are going there anyway.”
 
@@ -111,31 +111,31 @@ A week spent in anticipation. Nubile. Live. Naked. Big screen. Getting caught. N
 > 
 > “I mean, to the *movie*.”
 > 
-> “Oh. Bring another set of clothes. Let’s change somewhere.”
+> “Oh. Bring another set of clothes. Let's change somewhere.”
 > 
-> “My mom’ll get suspicious.”
+> “My mom'll get suspicious.”
 > 
 > “Oh.”
 > 
-> “Let’s wear our school uniform. We’ll let the shirt out, so that it covers the belt with the school logo. Your shoes look cheap anyway, so we’ll end up looking like local school students.”
+> “Let's wear our school uniform. We'll let the shirt out, so that it covers the belt with the school logo. Your shoes look cheap anyway, so we'll end up looking like local school students.”
 > 
 > “Great idea. By the way, your shoes look like crap too.”
 > 
-> “Isn’t that the whole point?”
+> “Isn't that the whole point?”
 > 
-> “And hey, don’t forget your underwear.”
+> “And hey, don't forget your underwear.”
 
 Laughter.
 
 ---
 
-We arrived early. After a little bit of haggling over who should buy the tickets, we walked up to the counter together. Two balcony seats (we were high-class, weren’t we?) to a movie called Aadhi Thaalam. Primal Rhythm. Tickets bought, we rushed to our seats.
+We arrived early. After a little bit of haggling over who should buy the tickets, we walked up to the counter together. Two balcony seats (we were high-class, weren't we?) to a movie called Aadhi Thaalam. Primal Rhythm. Tickets bought, we rushed to our seats.
 
 > “Hey man, I saw a guy walk past the theater when we were buying tickets. He stared at me for a long time. It looked a lot like someone we know.”
 > 
-> “Uh-oh. So that’s it for you. You are caught! I am glad I had my back to the outside when I bought the tickets.”
+> “Uh-oh. So that's it for you. You are caught! I am glad I had my back to the outside when I bought the tickets.”
 > 
-> “Oh, no way. He knew you were there for sure. Don’t we always hang out together?”
+> “Oh, no way. He knew you were there for sure. Don't we always hang out together?”
 > 
 > “Oh! In that case, we should tell everyone that we were here for the afternoon show in case they ask.”
 > 
@@ -148,20 +148,20 @@ Later, the frustration really gets to the housewife, and she decides to take up 
 
 We were fast losing hope.
 
-But towards the end of the movie, just as someone was stabbing someone else with a screwdriver, the young housewife’s clothes moved away and we saw it. The fleshiest knee in the world. We left at that point.
+But towards the end of the movie, just as someone was stabbing someone else with a screwdriver, the young housewife's clothes moved away and we saw it. The fleshiest knee in the world. We left at that point.
 
 > “Dude?”
 > 
 > “What?”
 > 
-> “This won’t do.”
+> “This won't do.”
 > 
 > “Yeah.”
 
-Our quest started then. Oh, and to those who think young men are not patriotic anymore, take this: We must’ve ignored over a million recommendations to go Hollywood, because we were not interested in foreign flesh. Be Indian, See Indian.
+Our quest started then. Oh, and to those who think young men are not patriotic anymore, take this: We must've ignored over a million recommendations to go Hollywood, because we were not interested in foreign flesh. Be Indian, See Indian.
 
 ---
-Over the next year or so, we must’ve watched almost every adult Malayalam movie that was ever made. Some of them twice, to confirm suspicions that we could’ve missed a fleeting glimpse of something important when we were talking to each other.
+Over the next year or so, we must've watched almost every adult Malayalam movie that was ever made. Some of them twice, to confirm suspicions that we could've missed a fleeting glimpse of something important when we were talking to each other.
 
 And what did we end up with? Several sorry glimpses of knee.
 
@@ -180,7 +180,7 @@ We then left school and headed for college. At the exact moment we entered colle
 > 
 > “Wow.”
 
-And thus the quest was restarted with much earnestness. But earnestness, I’ve come to realize, has nothing to do with eventual results. More knee. Maybe a *bit (pats himself on back for clever pun)* of grainy black and white action. But no nubile, no naked, no live, no nothing. Crapola.
+And thus the quest was restarted with much earnestness. But earnestness, I've come to realize, has nothing to do with eventual results. More knee. Maybe a *bit (pats himself on back for clever pun)* of grainy black and white action. But no nubile, no naked, no live, no nothing. Crapola.
 
 Meanwhile, Hollywood was on a roll. Sirocco and Basic Instinct. In the Cold of The Night and Inheritance. Lots of nubility, lots of writhing, lots of what we wanted. Great, but wrong color, dudes. Sigh.
 
@@ -193,7 +193,7 @@ And then one day realization struck.
 ---
 And then one day realization struck someone else.
 
-This guy then proceeded to name himself Sa J Jan (I swear that’s his real name) and shot a movie with the usual Malayalam actors and actresses. The same frustrated wife plot, boyfriend and psychiatrist and screw driver. Only difference was, when the crew showed up at the sound recording studio the next day, they were in for a surprise: their lines were all in English. Reading from transliterated Malayalam notes, they said things like:
+This guy then proceeded to name himself Sa J Jan (I swear that's his real name) and shot a movie with the usual Malayalam actors and actresses. The same frustrated wife plot, boyfriend and psychiatrist and screw driver. Only difference was, when the crew showed up at the sound recording studio the next day, they were in for a surprise: their lines were all in English. Reading from transliterated Malayalam notes, they said things like:
 
 > “Please, oh please. Please let your finger linger on me.”
 
@@ -207,8 +207,8 @@ And sure enough, there were. *Secret of Secrets* was released a few months later
 Around that time, I graduated.
 
 ---
-These days, when people talk about dubbing [Basic Instinct ](https://stochastica.net/2006/04/25/understanding-the-vella-kaari/ "Understanding the vella-kaari (4/25/2006)")into Tamil, all I can do is smile wanly. If I were you, folks, I would dub the Secret of Secrets. At the very least, it has a much better plot and the director’s name sounds more exotic.
+These days, when people talk about dubbing [Basic Instinct ](https://stochastica.net/2006/04/25/understanding-the-vella-kaari/ "Understanding the vella-kaari (4/25/2006)")into Tamil, all I can do is smile wanly. If I were you, folks, I would dub the Secret of Secrets. At the very least, it has a much better plot and the director's name sounds more exotic.
 
 
 
-PS: Apologies are due for the break in blogging. I’ve always wondered if work could keep one too busy to spend an hour or two a week on blogging, and I know now. It can. Believe me, I didn’t really mean to take a break. And thanks to those who asked. It felt good.
+PS: Apologies are due for the break in blogging. I've always wondered if work could keep one too busy to spend an hour or two a week on blogging, and I know now. It can. Believe me, I didn't really mean to take a break. And thanks to those who asked. It felt good.

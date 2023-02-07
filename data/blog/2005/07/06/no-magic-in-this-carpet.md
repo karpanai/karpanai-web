@@ -19,21 +19,21 @@ In her eight stories, Sankaran tries to cover the entire spectrum of people that
 
 > Ramu studied the animated woman in front of him, a slight smile on his lips. And apart from the minor variances: his gender, darker skin color, the carefully trimmed goatee resting on his chin, and the worrisome hairline that danced away from his forehead in the coy manner that plagued so many men in their early thirties, it was practically a Mona Lisa smile – full of mystery and hidden amusement.
 
-After this uncertain, stilted start to ‘Bombay This’, the first story in the collection about a superficial-at-first-glance, but-actually-quite-deep girl from Bombay, a few techies and (yes) marriage, the stories steadily get better until the Red Carpet, and then they seem to get worse. Either that or ennui – it is different versions of the same people, and if you look closely enough, it is the same story repeated over and over again. And the author comes across as a little talkative: choosing to vividly describe things when hints would’ve done the job, probably part of trying to cater to a wide (phoreen) audience.
+After this uncertain, stilted start to ‘Bombay This', the first story in the collection about a superficial-at-first-glance, but-actually-quite-deep girl from Bombay, a few techies and (yes) marriage, the stories steadily get better until the Red Carpet, and then they seem to get worse. Either that or ennui – it is different versions of the same people, and if you look closely enough, it is the same story repeated over and over again. And the author comes across as a little talkative: choosing to vividly describe things when hints would've done the job, probably part of trying to cater to a wide (phoreen) audience.
 
 When Lavanya lets her guard down enough to throw in a few inside jokes, the book can be quite funny, like this exchange from the Alphabet Soup, an otherwise contrived tale about an America reared girl (with a slight persecution complex) who wants to explore the “strength” of being “Brown in a Brown country.”
 
 > Mr. Iyer liked to sit on the verandah, on a swing made from a sturdy plank of rosewood, leaving his wife to bustle about the house and occasionally steop out with tumblers of piping hot coffee. He himself was retired, and spent his days reading his newspapers in a skirt.
 > 
-> ‘Not a skirt,’ he said, pained when Priya first phrased her careful inquiry. ‘Not a skirt at all. It is a *veshti.* A  *lungi,*  a  *dhoti.*  Men’s wear. Just like suitings, shirtings, and cuff links. But,’ he said, ‘more comfortable for the heat.’
+> ‘Not a skirt,' he said, pained when Priya first phrased her careful inquiry. ‘Not a skirt at all. It is a *veshti.* A  *lungi,*  a  *dhoti.*  Men's wear. Just like suitings, shirtings, and cuff links. But,' he said, ‘more comfortable for the heat.'
 > 
-> Oh, a sarong,’ said Priya.
+> Oh, a sarong,' said Priya.
 > 
-> ‘No,’ said Mr. Iyer. ‘A veshti.’
+> ‘No,' said Mr. Iyer. ‘A veshti.'
 
 Mostly though, the guard is up, and the book suffers for it.
 
-The book does offer some interesting insights, especially when narrated from an outsider’s perspective: The title story – Red Carpet, narrated by a chauffeur, and to a lesser extent, Closed Curtain – told by an old man with a window (literally) into the life of a hep, very today young couple are the most interesting tales in the book.
+The book does offer some interesting insights, especially when narrated from an outsider's perspective: The title story – Red Carpet, narrated by a chauffeur, and to a lesser extent, Closed Curtain – told by an old man with a window (literally) into the life of a hep, very today young couple are the most interesting tales in the book.
 
 But in these as well as most of the other tales, the endings seem contrived and abrupt, loose ends tied up a little too well, or a careful, deliberate attempt made to leave some ends dangling. Almost like realizing on the last page that the story had to end here.
 

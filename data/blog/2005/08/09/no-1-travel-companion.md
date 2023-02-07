@@ -15,6 +15,6 @@ post_format: []
 
 > If you had to describe your work to an Indian audience, how would you describe it?
 > 
-> I don’t know if I’d be comfortable talking about my work. I suppose I might say quirky. It’s a bit quirky, a bit humorous. Ultimately, I want to make readers feel better and more hopeful. I don’t like depressing literature. Going back to the Narayan novels — you really feel sympathy for the people involved. It’s a very simple ambition, nothing very grand…
+> I don't know if I'd be comfortable talking about my work. I suppose I might say quirky. It's a bit quirky, a bit humorous. Ultimately, I want to make readers feel better and more hopeful. I don't like depressing literature. Going back to the Narayan novels  -  you really feel sympathy for the people involved. It's a very simple ambition, nothing very grand…
 
-I’ll take that any day, thank you.
+I'll take that any day, thank you.

@@ -15,13 +15,13 @@ If there is something that makes me incredibly envious, it is all those blogs th
 
 Venue: An expensive coffee shop somewhere in the world. We had called ahead to book the biggest table in the house, but when we enter, some poor sod is sitting there all by himself, sipping coffee. There are a couple of guys on the next table, gawking without shame, periodically interrupting their gawking to type something on their laptops.
 
-[Amit](http://indiauncut.blogspot.com): “*Waiter, looks like our table isn’t available yet.*”
+[Amit](http://indiauncut.blogspot.com): “*Waiter, looks like our table isn't available yet.*”
 
 Waiter: “*Why yes sir, let me go tell the guy to move to another table.*”
 
 [PrufrockTwo](http://prufrockspage.blogspot.com): “*One should give him a few minutes. Let the poor guy finish his coffee.*”
 
-[Dilip](http://dcubed.blogspot.com): (Ears perking up on hearing the word poor): “*Who said something about finishing the poor? Haven’t we done that enough already? We should all give up our houses for them for this city runs on their sweat. I took a train journey through India last week, and there was this poor lady who grinned at me through her tears of hunger. She had a red saree on her, how symbolic. That’s India for you.*”
+[Dilip](http://dcubed.blogspot.com): (Ears perking up on hearing the word poor): “*Who said something about finishing the poor? Haven't we done that enough already? We should all give up our houses for them for this city runs on their sweat. I took a train journey through India last week, and there was this poor lady who grinned at me through her tears of hunger. She had a red saree on her, how symbolic. That's India for you.*”
 
 Meanwhile, someone arrives.
 
@@ -33,21 +33,21 @@ Anonymous Blogger: “*No you dork. Hurree Babu is her pseudonym.*”
 
 Suitably chastised, I shut up for the rest of the meeting. The poor guy finishes his coffee, and we are all seated. Another arrival now.
 
-[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Hello everyone, sorry I’m a little late.*”
+[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Hello everyone, sorry I'm a little late.*”
 
-[Chandrahas](http://middlestage.blogspot.com): “*That’s ok, dear sir. Dear waiter, can you please bring me a cup of coffee?*”
+[Chandrahas](http://middlestage.blogspot.com): “*That's ok, dear sir. Dear waiter, can you please bring me a cup of coffee?*”
 
 [Falstaff](http://2x3x7.blogspot.com): “*Coffee reminds me of a poem.*” Starts speaking in verse.
 
 [Amit](http://indiauncut.blogspot.com): Looks around at the glum faces. “*Ok, let me break the ice with a joke. The license raj is a joke. Big Government is a joke. God is a joke. Heh. That was three jokes in one.*”
 
-[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Great joke! Let me ask you guys a question that has been bothering me for some time. I’d like to find out how you tell someone their coffee sucks.*”
+[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Great joke! Let me ask you guys a question that has been bothering me for some time. I'd like to find out how you tell someone their coffee sucks.*”
 
 [Nilu](http://themaanga.blogspot.com): “*You puke on them.*”
 
 Waiters: “*You seem to be hinting our coffee sucks. We smell superiority. You are a pompous man.*”
 
-[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Oh no, That’s not what I meant. I mean, I was not trying to make a statement on the quality of this specific coffee. I was idly wondering about a potential social situation.*”
+[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*Oh no, That's not what I meant. I mean, I was not trying to make a statement on the quality of this specific coffee. I was idly wondering about a potential social situation.*”
 
 [Tilotamma](http://tilotamma.blogspot.com): “*Idly? Idlies make my mouth water. Especially with coconut chutney. Man, oh man.*”
 
@@ -59,9 +59,9 @@ Waiters: “*Might?*”
 
 [Dilip](http://dcubed.blogspot.com): “*Poor? Did someone say poor? Yes, the poor need a break from capitalist oppression.*”
 
-[Amit](http://indiauncut.blogspot.com): “*Cut it out will ya? Waiter, can I get another coffee please? With cow’s milk. Cows are very cool.*”
+[Amit](http://indiauncut.blogspot.com): “*Cut it out will ya? Waiter, can I get another coffee please? With cow's milk. Cows are very cool.*”
 
-[Bridalbeer](http://bridalbeer.blogspot.com): “ *Brian liked Mountain Dew. Bill does too. But I don’t. Meanwhile, the dog barks. A good cup of coffee helps people ruminate. It also helps them urinate.*”
+[Bridalbeer](http://bridalbeer.blogspot.com): “ *Brian liked Mountain Dew. Bill does too. But I don't. Meanwhile, the dog barks. A good cup of coffee helps people ruminate. It also helps them urinate.*”
 
 [PrufrockTwo](http://prufrockspage.blogspot.com): “*One is impressed by your convoluted logic. One would have never thought ruminate and urinate could be linked together so effortlessly. One would like to point you to a story on how great writers ruminate that appeared in this Zambian newspaper.*”
 
@@ -71,7 +71,7 @@ Waiters: “*Might?*”
 
 [Dilip](http://dcubed.blogspot.com): “*Did you say poorly academic? How can the poor think of academics when their houses are being destroyed?*”
 
-[Rohan](http://indiauncut.blogspot.com/2005/01/plagiarism-in-indian-blogosphere.html): “*Who said something about letting the poor be? Haven’t we done that enough already? We should give up our houses for them for this city runs on their sweat. I took a train journey through India last week, and there was this poor lady who grinned at me through her tears of hunger. She had a red saree on her, how ironic.*”
+[Rohan](http://indiauncut.blogspot.com/2005/01/plagiarism-in-indian-blogosphere.html): “*Who said something about letting the poor be? Haven't we done that enough already? We should give up our houses for them for this city runs on their sweat. I took a train journey through India last week, and there was this poor lady who grinned at me through her tears of hunger. She had a red saree on her, how ironic.*”
 
 [Dilip](http://dcubed.blogspot.com): “*Yes, exactly.*”
 
@@ -101,7 +101,7 @@ Anon Commenter 3: “*I love the way you sneeze.*”
 
 [Amit](http://indiauncut.blogspot.com): “*Wait, I wanted to talk about why Big Government sucks. Maybe a few more minutes.*”
 
-[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*A few more minutes is fine. I don’t know if I mentioned that I thought the coffee here is actually much better than the one I make…*”
+[J Alfred Prufrock](http://sadoldbong.blogspot.com): “*A few more minutes is fine. I don't know if I mentioned that I thought the coffee here is actually much better than the one I make…*”
 
 [Amit](http://indiauncut.blogspot.com): “*I guess you were right, Hash. We should be leaving.*”
 
@@ -111,4 +111,4 @@ As we walk out, I asked the anonymous blogger next to me who the gawkers at the 
 
 “*Ah!*”
 
-PS: In case you didn’t notice, this post is categorized under Humor. Heh.
+PS: In case you didn't notice, this post is categorized under Humor. Heh.

@@ -27,11 +27,11 @@ And [Krishnan Menon](http://www.brutalclarity.com/index.php/weblog/more/a_custom
 > 
 > “I can give it to you in 6 days.”
 > 
-> “But I’m leaving in 4! How will I go?”
+> “But I'm leaving in 4! How will I go?”
 > 
-> “It’s only 2 days difference. Change your ticket.”
+> “It's only 2 days difference. Change your ticket.”
 > 
-> “I’ll miss my wedding!”
+> “I'll miss my wedding!”
 > 
 > He grunted, and stood up. Telling me to wait, he consulted a surly looking woman in the back, and they stood there buzzing to each other, ocassionally glancing in my direction. Finally, he made his way back to me.
 > 
@@ -39,9 +39,9 @@ And [Krishnan Menon](http://www.brutalclarity.com/index.php/weblog/more/a_custom
 
 Reminds me of the time a few friends and I went to a Subway in Orlando, late at night, exhausted. I was the first in line to order.
 
-> “I’ll have a footlong veggie, please”
+> “I'll have a footlong veggie, please”
 > 
-> “We have no wheat bread. Okay?” Y’all, WE HAVE NO WHEAT BREAD IN THE STORE!”
+> “We have no wheat bread. Okay?” Y'all, WE HAVE NO WHEAT BREAD IN THE STORE!”
 > 
 > “Ok.”
 > 
@@ -57,4 +57,4 @@ On another note, [DoZ](http://booksmovieslife.blogspot.com) writes an [insightfu
 
  [Manoj](http://www.minorscale.net) [explains why there is more to bags and vegetables](http://minorscale.net/index.php/archives/2005/07/22/124/) than meets the eye.
 
-Meanwhile this writer (I’ve always wanted to say *that*) lounges lazily, multiple half finished posts be damned.
+Meanwhile this writer (I've always wanted to say *that*) lounges lazily, multiple half finished posts be damned.

@@ -11,7 +11,7 @@ tags:
     - 'Movies'
 post_format: []
 ---
-This is more up [Manoj’s](http://www.minorscale.net) alley, but the plagiarism is so glaringly obvious here that the moment I listened to the song all I could say was, *Ada paavi!* (or Holy Crap!)
+This is more up [Manoj's](http://www.minorscale.net) alley, but the plagiarism is so glaringly obvious here that the moment I listened to the song all I could say was, *Ada paavi!* (or Holy Crap!)
 
 [Prema Prema](/pictures/prema.rm), by Chakri from the Telugu movie Kabaddi Kabaddi, ~ circa 2004.
 

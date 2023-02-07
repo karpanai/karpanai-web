@@ -13,7 +13,7 @@ post_format: []
 ---
 Flashback to a few weeks. We check into a hotel on our arrival in Malaysia, and collect our keys. We turn the key cards around, and it says in block letters, NO DURIAN. A red circle with a line drawn across it to emphasise the point. The genius in me assumes that Durian probably meant smoking. Then, we rent a car, turn the rental agreement around, and … yeah, same thing.
 
-A few days later (we are still in flashback mode, remember?) a friend at work tells us, “Let’s go try some Durian today.” And around him, quite a few people snicker.
+A few days later (we are still in flashback mode, remember?) a friend at work tells us, “Let's go try some Durian today.” And around him, quite a few people snicker.
 
 “Durian?”
 
@@ -29,7 +29,7 @@ Holding my breath, I boldly get close to the thing and peer closely at it. Insid
 
 I watch in disbelief as they all grab the hideous pods, and actually put them into their mouth. I looked closely, because I was pretty familiar with the experiment where a professor put his index finger into a bad substance, and fooled his students by licking his middle finger. In this case though, the pods I smelled were the pods that were being eaten.
 
-And then the inevitable followed – “Eat some,” someone offered. Lavanya and I took a slimy, slippery (and yes, smelly but I’ve stressed that enough) pod in our hands, and I watched as she boldly nibbled at the corner of hers. She followed it up with a most remarkable contortion of her facial muscles, and then aware of the glances of the frenzied mob beside her, she recovered quickly enough to state that it was, er, not too bad. My turn to nibble, and I took a small bite. The smell immediately located the backdoor to my nose and took it. I chortled, politely smiled at the guys, and threw the rest of it away. The group by now was in splits, leading me to recognize an important truth: they enjoyed our discomfort as much as they enjoyed the fruit.
+And then the inevitable followed – “Eat some,” someone offered. Lavanya and I took a slimy, slippery (and yes, smelly but I've stressed that enough) pod in our hands, and I watched as she boldly nibbled at the corner of hers. She followed it up with a most remarkable contortion of her facial muscles, and then aware of the glances of the frenzied mob beside her, she recovered quickly enough to state that it was, er, not too bad. My turn to nibble, and I took a small bite. The smell immediately located the backdoor to my nose and took it. I chortled, politely smiled at the guys, and threw the rest of it away. The group by now was in splits, leading me to recognize an important truth: they enjoyed our discomfort as much as they enjoyed the fruit.
 
 So if I am ever stranded in the middle of the Pacific, [a la Piscine](https://stochastica.net/2005/01/30/books-life-of-pi/), and if the only store in the middle of the ocean sells Durian, I will probably pass. Unless the alternative is torpedo soup.
 

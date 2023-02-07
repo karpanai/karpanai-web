@@ -12,4 +12,4 @@ tags:
     - etcetera
 post_format: []
 ---
-This was one dish I was smug enough to think I had mastered. Put rice in electric cooker, add a cup of water, glance at tv, add another cup, glance some more, smile sheepishly when you miss count, turn cooker on and wait till it gets to “keep warm.” Until I read this: [ Shiok – Chef’s Notes: How to make perfect steamed rice](http://shiokfood.com/notes/archives/000022.html)
+This was one dish I was smug enough to think I had mastered. Put rice in electric cooker, add a cup of water, glance at tv, add another cup, glance some more, smile sheepishly when you miss count, turn cooker on and wait till it gets to “keep warm.” Until I read this: [ Shiok – Chef's Notes: How to make perfect steamed rice](http://shiokfood.com/notes/archives/000022.html)

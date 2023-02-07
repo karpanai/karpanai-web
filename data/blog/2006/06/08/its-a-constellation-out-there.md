@@ -13,23 +13,23 @@ post_format: []
 teaser:
     - disable
 ---
-Harpreet Kaur lives for Hindi cinema. She loves Amitabh Bachchan (in a platonic sort of way) and can’t imagine life without her daily dose of Lata. Harpreet is about a year into her Master’s in Computer Science at the University of Alaska. Her dad, back in Ludhiana and prone to hyperbole, never tires of telling people about how the Americans were bedazzled by his daughter’s intelligence and gave her “full aid” at the “best university in the world.” Harpreet did get financial aid, but she can’t get Computer Science for the life of her.
+Harpreet Kaur lives for Hindi cinema. She loves Amitabh Bachchan (in a platonic sort of way) and can't imagine life without her daily dose of Lata. Harpreet is about a year into her Master's in Computer Science at the University of Alaska. Her dad, back in Ludhiana and prone to hyperbole, never tires of telling people about how the Americans were bedazzled by his daughter's intelligence and gave her “full aid” at the “best university in the world.” Harpreet did get financial aid, but she can't get Computer Science for the life of her.
 
 Srinivasa is the tall guy that sits with her in the Data Structures class. He hails from Nellore and has only a vague idea of how big Amitabh Bachchan is up north, but he gets Data Structures really well. He used to look down upon Harpreet because she sucked at Computer Science, but every time he did , he ended up staring at the prettiest pair of boobs in the world. And so, he fell in love with her.
 
-Harpreet, on the other hand, liked the guy – especially on days he did her homework for her – but she wasn’t in love with him or anything. It didn’t help that he kept mixing up Lata and M.S.Subbulakhmi all the time. “I always have trouble differentiating between old women singing in alien tongues,” he told her when confronted. She wasn’t impressed at all by that answer…
+Harpreet, on the other hand, liked the guy – especially on days he did her homework for her – but she wasn't in love with him or anything. It didn't help that he kept mixing up Lata and M.S.Subbulakhmi all the time. “I always have trouble differentiating between old women singing in alien tongues,” he told her when confronted. She wasn't impressed at all by that answer…
 
-Harpreet didn’t know it then, but change was in the air.
+Harpreet didn't know it then, but change was in the air.
 
 A few days later, Harpreet came down with a nasty flu that brought the meanest headache along. She took a Tylenol, and asked her roommate Aparna Shah if she could bring her a bowl of Campbell soup, but Aparna refused because the Campbell soup in the refrigerator was purchased from her share of the grocery fund.
 
-Unable to counter her roomate’s sound logic, Harpreet went hungry that afternoon, and was delirious by the time Srinivasa came to visit her. He had stopped by to find out if she had really bunked classes to “be with her boyfriend,” like his friend Ravikiran had speculated.
+Unable to counter her roomate's sound logic, Harpreet went hungry that afternoon, and was delirious by the time Srinivasa came to visit her. He had stopped by to find out if she had really bunked classes to “be with her boyfriend,” like his friend Ravikiran had speculated.
 
-Moved by her plight (and by the sight a pretty girl coiled vulnerably on a used Sealy Mattress), he made her some soup, and then sat by her bed and said comforting things to her until she fell asleep. He then watched the Tonight Show and spent the night on the couch in her apartment. He could’ve walked to his place, but it was his turn to cook today.
+Moved by her plight (and by the sight a pretty girl coiled vulnerably on a used Sealy Mattress), he made her some soup, and then sat by her bed and said comforting things to her until she fell asleep. He then watched the Tonight Show and spent the night on the couch in her apartment. He could've walked to his place, but it was his turn to cook today.
 
-The next day, he woke up, used Aparna’s Listerine, made some coffee and drank it together with Harpreet. He experienced bliss, or something like it.
+The next day, he woke up, used Aparna's Listerine, made some coffee and drank it together with Harpreet. He experienced bliss, or something like it.
 
-This pattern continued for a few days, and Harpreet no longer had the flu, though she was still not attending classes because she felt weak. Sri wasn’t going to classes either, “to provide her some company.” He was now a regular in Harpreet’s apartment, regular enough that his toothbrush was in her bathroom, and regular enough for Aparna Shah to demand that he pay 14% of the rent that month. Things were going very well indeed…
+This pattern continued for a few days, and Harpreet no longer had the flu, though she was still not attending classes because she felt weak. Sri wasn't going to classes either, “to provide her some company.” He was now a regular in Harpreet's apartment, regular enough that his toothbrush was in her bathroom, and regular enough for Aparna Shah to demand that he pay 14% of the rent that month. Things were going very well indeed…
 
 “What do you like? ” he asked her that afternoon, acting on advice from Ravikiran “to find out her likes and dislikes.”
 
@@ -37,15 +37,15 @@ This pattern continued for a few days, and Harpreet no longer had the flu, thoug
 
 “My favorite thing would be my iPod. But I do like Amitabh Bachchan. He is a great actor.”
 
-“Really? Thats so sweet. What’s your favorite movie of his? ”
+“Really? Thats so sweet. What's your favorite movie of his? ”
 
 “Err…I thought Shahenshah was great. So was Giraftar ”
 
-“Shahenshah? Even I couldn’t stand that one. Tell me the truth now – how many Bachchan movies have you watched?”
+“Shahenshah? Even I couldn't stand that one. Tell me the truth now – how many Bachchan movies have you watched?”
 
 “Only those two on the video coach bus from Madras to Bangalore. Nellore theaters only play Telugu and Tamil movies. But there was a lot of potential in his angry eyes.. I could see it very clearly.”
 
-“Oh you poor thing. That’s such a sad story… I need to show you how much you are missing.”
+“Oh you poor thing. That's such a sad story… I need to show you how much you are missing.”
 
 So she said, and put in a copy of Black into their Apex DVD player. A few minutes into the movie, and Sri hits the pause button.
 
@@ -53,13 +53,13 @@ So she said, and put in a copy of Black into their Apex DVD player. A few minute
 
 “Of course, he is a superstar. ”
 
-“If that is so, how come the title card doesn’t say SuperStar Amitabh Bachchan. If I call him a Megastar, would that be ok?”
+“If that is so, how come the title card doesn't say SuperStar Amitabh Bachchan. If I call him a Megastar, would that be ok?”
 
 “Yes, he is a megastar, a superstar, a huge star. The biggest there is.”
 
 “He can only be one star. Tell me which one. ”
 
-“I don’t think I understand where this is going. ”
+“I don't think I understand where this is going. ”
 
 Sri takes her hand, and holds it against his chest.
 
@@ -87,7 +87,7 @@ And thus the lesson begins.
 >  
 > “I worship Krishna too. No one looks better in an orange jumpsuit.”
 >  
-> “Yes, yes. Go on though – let’s not talk about Gods now.”
+> “Yes, yes. Go on though – let's not talk about Gods now.”
 >  
 > “Gods? Oh I see now. For a second I thought SuperStar Krishna was famous in Punjab.”
 >  
@@ -97,9 +97,9 @@ And thus the lesson begins.
 > 
 > “Oh! ”
 > 
-> “Yeah, one of the reasons he is not as popular as Rajinikanth is that he doesn’t have a fixed name for himself. How will people know if the Universal Hero is acting in this movie or if it is the Padmashree. ”
+> “Yeah, one of the reasons he is not as popular as Rajinikanth is that he doesn't have a fixed name for himself. How will people know if the Universal Hero is acting in this movie or if it is the Padmashree. ”
 > 
-> “Quite true. This is so interesting. Let’s munch on a paratha while you tell me more.”
+> “Quite true. This is so interesting. Let's munch on a paratha while you tell me more.”
 
 ---
 
@@ -107,7 +107,7 @@ And thus the lesson begins.
 > 
 > Rajinikanth is the SuperStar, Ajit Kumar is the Ultimate Star and to top it all off, S.J. Surya is the Multiple Star. Oh, and one must not ignore Sarathkumar, who even signs his own letters Supreme Star and Murali, who is the Revolutionary Actor.?
 > 
-> “Great. I can’t say I’ve heard of all these people. I never knew that people named their kids Merely.”
+> “Great. I can't say I've heard of all these people. I never knew that people named their kids Merely.”
 > 
 > “Merely? No, he is actually…”
 > 
@@ -122,7 +122,7 @@ And thus the lesson begins.
 > 
 > “Well.. someone has to name you, right?”
 > 
-> “Usually, they just wait for a movie or two. If someone doesn’t call them by an epithet, they just pick one they like.”
+> “Usually, they just wait for a movie or two. If someone doesn't call them by an epithet, they just pick one they like.”
 > 
 > “This is so fascinating. Another paratha?”
 > 
@@ -134,11 +134,11 @@ And thus the lesson begins.
 > 
 > “Theory flies over my head. Give me examples.”
 > 
-> “I should’ve known that my honeybun. Chiranjeevi, the most popular star in Telugu, is the Mega Star. So when his brother made his acting debut, he chose to call himself the Power Star. Chiranjeevi’s father-in-law is the Ace Producer. He has another brother, and naturally enough, this brother is the Mega Brother.”
+> “I should've known that my honeybun. Chiranjeevi, the most popular star in Telugu, is the Mega Star. So when his brother made his acting debut, he chose to call himself the Power Star. Chiranjeevi's father-in-law is the Ace Producer. He has another brother, and naturally enough, this brother is the Mega Brother.”
 > 
 > “Ok…”
 > 
-> “When Chiranjeevi’s nephew made his debut, he became the Mega Power Star. And when his son does make his debut, he will be the Yuva Mega Star”
+> “When Chiranjeevi's nephew made his debut, he became the Mega Power Star. And when his son does make his debut, he will be the Yuva Mega Star”
 > 
 > 
 > “Oh, what a simple algorithm. So if the another nephew debuts, he could be the Power Mega Star. Yet another could be the Mega Brother Power Star. And then Ace Power Brother Star Mega Yuva. This could go on for several generations.”
@@ -147,7 +147,7 @@ And thus the lesson begins.
 > 
 > “Their son could be the Ex Star. Their daughter the Ex Vamp. Or VampEx. Finally an algorithm I get. ”
 > 
-> “Eh, maybe. I shouldn’t forget Tarun – who claims that his proudest achievement is his shoe collection – he calls himself the Lover Boy. Positive Reinforcement, sort of.”
+> “Eh, maybe. I shouldn't forget Tarun – who claims that his proudest achievement is his shoe collection – he calls himself the Lover Boy. Positive Reinforcement, sort of.”
 > 
 > 
 > “Hmm… ”
@@ -158,7 +158,7 @@ And thus the lesson begins.
 > 
 > “Anyways, moving on…”
 > 
-> “Can we stop here? I’ve been bored now for the last twenty lines. You don’t know where to stop”
+> “Can we stop here? I've been bored now for the last twenty lines. You don't know where to stop”
 > 
 > “Ok, whatever you say, my Princess.”
 > 

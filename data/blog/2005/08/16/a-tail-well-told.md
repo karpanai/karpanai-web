@@ -19,4 +19,4 @@ The article was received well – so well in fact that Anderson is now turning i
 
 Anderson maintains a [blog on The Long Tail](http://longtail.typepad.com/the_long_tail/), a “public diary on the way to a book.” A blog is a great way to gather information for a book like this – a look at some of the comments on the Long Tail is enough to convince one of this.
 
-And if the book is not a bestseller, I’m sure Anderson won’t be too worried. After all, he invented [The Long Tail](http://en.wikipedia.org/wiki/Long_Tail).
+And if the book is not a bestseller, I'm sure Anderson won't be too worried. After all, he invented [The Long Tail](http://en.wikipedia.org/wiki/Long_Tail).

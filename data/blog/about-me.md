@@ -13,12 +13,12 @@ tags: ['etcetera']
 ---
 
 
-I am an Indian engineer (yawn!) in Florida that was fortunate enough to have grown up in a family that loved books. And thanks to Carver, Le Carre, Stephenson, Gibson, Illayaraja, my daughter Shriya and wife Lavanya, I can love like I’ve never been hurt before.
+I am an Indian engineer (yawn!) in Florida that was fortunate enough to have grown up in a family that loved books. And thanks to Carver, Le Carre, Stephenson, Gibson, Illayaraja, my daughter Shriya and wife Lavanya, I can love like I've never been hurt before.
 
-> Work like you don’t need the money;  
+> Work like you don't need the money;  
 > dance like no one is watching;  
 > sing like no one is listening;  
-> love like you’ve never been hurt;  
+> love like you've never been hurt;  
 > and live life every day as if it were your last.
 
 [Contact](mailto:karthik@stochastica.net)

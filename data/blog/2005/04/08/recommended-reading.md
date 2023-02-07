@@ -11,4 +11,4 @@ tags:
     - etcetera
 post_format: []
 ---
-Blogs don’t usually come better than this: [ A simple desultory Philippic](http://sadoldbong.blogspot.com/) Written by an anonymous Indian bureaucrat with an aerodynamic hair*. Link through [India Uncut](http://www.indiauncut.blogspot.com).
+Blogs don't usually come better than this: [ A simple desultory Philippic](http://sadoldbong.blogspot.com/) Written by an anonymous Indian bureaucrat with an aerodynamic hair*. Link through [India Uncut](http://www.indiauncut.blogspot.com).

@@ -11,9 +11,9 @@ tags:
     - 'Life'
 
 ---
-He’s there every week at the same spot in the airport; dark glasses; some quarters and the odd dollar on a blanket in front, strumming a guitar *and* singing *and* sipping a coffee from Starbucks. *Starbucks?* 
+He's there every week at the same spot in the airport; dark glasses; some quarters and the odd dollar on a blanket in front, strumming a guitar *and* singing *and* sipping a coffee from Starbucks. *Starbucks?* 
 
-I ignored him with studied indifference and walked on toward the trains to the city, head buzzing from the bad coffee and last night’s bagel and the non-dairy creamer and the sitting in a metal tube convincing myself that the seatmate had allergies, not swine flu. That the odds of dropping down were low, Air France notwithstanding. Moving walkway is ending, and he was singing.
+I ignored him with studied indifference and walked on toward the trains to the city, head buzzing from the bad coffee and last night's bagel and the non-dairy creamer and the sitting in a metal tube convincing myself that the seatmate had allergies, not swine flu. That the odds of dropping down were low, Air France notwithstanding. Moving walkway is ending, and he was singing.
 
 Except he was singing *that* song. My song. I think.
 
@@ -23,7 +23,7 @@ Except he was singing *that* song. My song. I think.
 > 
 > Deepam Erivadhenna
 
-Nothing a nap can’t fix, but right now I am inclined to think that an airport singer in Chicago is singing Ilaiyaraaja for me. 
+Nothing a nap can't fix, but right now I am inclined to think that an airport singer in Chicago is singing Ilaiyaraaja for me. 
 
 ---
 
@@ -49,7 +49,7 @@ One such night, as I was studying for a Geography exam from my textbook (“Mirr
 > 
 > *Ezha Veeendum…*
 
-Such haunting music. And deep lyrics, about parrots that got wet in the heart’s rain and wishing them many such happy showers till dawn. Some unknown guy with the most divine voice in the world singing the best song that could ever be composed. By the time it ended, I had tears in my eyes.
+Such haunting music. And deep lyrics, about parrots that got wet in the heart's rain and wishing them many such happy showers till dawn. Some unknown guy with the most divine voice in the world singing the best song that could ever be composed. By the time it ended, I had tears in my eyes.
 
 I got up, angrily looked at the Mirror of the World, walked to my dad and demanded that he buy the red Sharp tape recorder with APSS and two tape decks right away from Cherian, or else… Cowed by the implicit menace in my baritone, my dad agreed right away. (Okay, the truth was that he had *already* put a down payment on it, but the truth never gets bloggers anywhere, does it?). Naturally, Cherian retained the two empty “Dubai” cassettes that came with the gadget when we took possession of it a month later. After that, we went out to Big Bazaar Street and bought some cassettes: Kanda Sashti Kavasam, Suprabhatham, some hideous song that always made me want to run for cover that began Bavayami Raghuram.
 
@@ -57,11 +57,11 @@ My promises to the Lord notwithstanding, I was bored after three days of listeni
 
 > “Dad, we need some good audiotapes.”
 > 
-> “See, that’s why I said no tape recorder.”
+> “See, that's why I said no tape recorder.”
 
-Why that was a relevant answer, I don’t know to this day.
+Why that was a relevant answer, I don't know to this day.
 
-> “Please, let’s buy at least a few.”
+> “Please, let's buy at least a few.”
 > 
 > “Cinema songs spoil kids.”
 
@@ -73,19 +73,19 @@ Even more irrelevant response.
 
 Aha, some relevance.
 
-> “Let’s stop Reader’s Digest and use that money for this. I don’t understand the jokes anyway.”
+> “Let's stop Reader's Digest and use that money for this. I don't understand the jokes anyway.”
 
-Uh oh. He wasn’t amused at all. He invited my mom into the conversation.
+Uh oh. He wasn't amused at all. He invited my mom into the conversation.
 
-> “He wants us to give up the educational value of Reader’s Digest for cinema songs.”
+> “He wants us to give up the educational value of Reader's Digest for cinema songs.”
 > 
 > “Did you see my handbag?”
 
 Runs through the family, as you can see.
 
-> “Why can’t he be like his brother? He never asked me for such things”
+> “Why can't he be like his brother? He never asked me for such things”
 > 
-> “Why don’t you borrow something from Drawing Master’s house for now?”
+> “Why don't you borrow something from Drawing Master's house for now?”
 
 It is a miracle I grew up sane.
 
@@ -95,7 +95,7 @@ The borrowing suggestion would have made sense except that the lender was totall
 
 His collection consisted almost entirely of *Sivaji Kadhai Vasanam* tapes, audiotapes that consisted of all the *dialogs* from popular Tamil films starring “Sivaji” Ganesan, who could win any shouting match with any pair of siblings from anywhere. So this guy would turn the tape recorder on and actually spend his evenings listening to Sivaji secretly wooing Padmini at volumes rapidly approaching airplane engine levels. The only time these things are useful is when you feel like watching Mirudanga Chakravarthy: they can reduce the trauma of watching them famous Sivaji jowls shake the spit out of themselves as he thwacks the poor mirudangam with murderous rage.
 
-So yeah, this is the stuff I was to borrow. I wish I at least had some blank tapes, but I had burnt my bridges totally with that Reader’s Digest suggestion, so I was doomed.
+So yeah, this is the stuff I was to borrow. I wish I at least had some blank tapes, but I had burnt my bridges totally with that Reader's Digest suggestion, so I was doomed.
 
 Or was I?
 
@@ -103,7 +103,7 @@ I was beginning to entertain a dangerous proposition in my mind…
 
 - - - - - -
 
-Later that week, I walked to the neighbor’s house and asked to borrow some tapes. I picked out a few especially abominable ones and was told to “keep them safe for a reasonable period of time.” Out of this, I picked out the most abominable one for rescue. My plan was simple: I would tape over random portions of this audiotape with songs I liked from the radio every night. I would then proceed to listen to the songs until I was content, and then return the whole batch to them. 50% of 1 tape out of 10: my odds were great.
+Later that week, I walked to the neighbor's house and asked to borrow some tapes. I picked out a few especially abominable ones and was told to “keep them safe for a reasonable period of time.” Out of this, I picked out the most abominable one for rescue. My plan was simple: I would tape over random portions of this audiotape with songs I liked from the radio every night. I would then proceed to listen to the songs until I was content, and then return the whole batch to them. 50% of 1 tape out of 10: my odds were great.
 
 After some strategically applied adhesive tape to circumvent write protection, the audio cassette was ready for its redemption. Buh Bye *Thooku Thooki.* Hello Ilayaraja.
 
@@ -113,7 +113,7 @@ Then it was the turn of choice portions of the hideous *Thanga Malai Ragasiyam* 
 
 - - - - - -
 
-A year or so later, we are invited to spend the evening lounging around with the drawing master’s family and their relatives who are visiting from a hamlet called Nanjundapuram. He plays out a few minutes from several of his tapes as a preview for the relatives, who finally choose to listen to the secrets of the Gold Mountains, perhaps because they were fooled by the title like I was the first time. A few minutes into the movie, during an obviously important moment judging by the number and extent of mouths held open, my song started again:
+A year or so later, we are invited to spend the evening lounging around with the drawing master's family and their relatives who are visiting from a hamlet called Nanjundapuram. He plays out a few minutes from several of his tapes as a preview for the relatives, who finally choose to listen to the secrets of the Gold Mountains, perhaps because they were fooled by the title like I was the first time. A few minutes into the movie, during an obviously important moment judging by the number and extent of mouths held open, my song started again:
 
 *Idhaya Mazhayil, Nanaindha Kiligal*
 
@@ -127,4 +127,4 @@ He started looking for another tape when the song ended. Then it started again, 
 
 - - - - - -
 
-PS: If this post reads a little dated, it is because it is. I started it off almost a year ago, and never did gather the energy to finish it till today, perhaps fittingly on an airplane to Chicago. Also, my apologies for the rather long hiatus from the blog. I suppose I could blame being busy for not writing, but the truth is I don’t know why I didn’t write. I am pleased to say that the time off was rather productive – my wife and I had ourselves a baby girl in 2008, and she’s brought us more joy than most Illayaraja songs.
+PS: If this post reads a little dated, it is because it is. I started it off almost a year ago, and never did gather the energy to finish it till today, perhaps fittingly on an airplane to Chicago. Also, my apologies for the rather long hiatus from the blog. I suppose I could blame being busy for not writing, but the truth is I don't know why I didn't write. I am pleased to say that the time off was rather productive – my wife and I had ourselves a baby girl in 2008, and she's brought us more joy than most Illayaraja songs.

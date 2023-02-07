@@ -15,4 +15,4 @@ A two-day trip – correction, a two day *business* trip – working all day, re
 
 [The Telegraph categorizes the way people pack books](http://portal.telegraph.co.uk/arts/main.jhtml;jsessionid=SGKWEO4ULSDO1QFIQMFCM54AVCBQYJVC?xml=/arts/2005/06/19/boreaders.xml&sSheet=/arts/2005/06/19/bomain.html), and they missed me, just like they missed [Jessa Crispin (at bookslut).](http://www.bookslut.com/blog/archives/2005_06.php#005880)
 
-I got to confess though, I’m a teensy bit proud that they didn’t pigeonhole me. Before you go around calling me desperate, remember this: teensy means really small.
+I got to confess though, I'm a teensy bit proud that they didn't pigeonhole me. Before you go around calling me desperate, remember this: teensy means really small.

@@ -17,4 +17,4 @@ When will the novel die?
 
 When will women stop reading?
 
-[Google doesn’t know yet](http://www.google.com/search?sourceid=navclient-ff&ie=UTF-8&q=%22when%20will%20women%20stop%20reading%22). Maybe Sir Vidia does.
+[Google doesn't know yet](http://www.google.com/search?sourceid=navclient-ff&ie=UTF-8&q=%22when%20will%20women%20stop%20reading%22). Maybe Sir Vidia does.

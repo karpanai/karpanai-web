@@ -12,6 +12,6 @@ tags:
     - etcetera
 post_format: []
 ---
-> Banville doesn’t always help his own case. A few hours before the ceremony he confided to an American journalist that The Sea was “a bad book”. [\[Link\]](http://books.guardian.co.uk/bookerprize2005/story/0,16347,1590021,00.html)
+> Banville doesn't always help his own case. A few hours before the ceremony he confided to an American journalist that The Sea was “a bad book”. [\[Link\]](http://books.guardian.co.uk/bookerprize2005/story/0,16347,1590021,00.html)
 
 > ‘It is nice,” said John Banville on Monday night, “to see a work of art win the Booker prize.”[\[Link\]](http://books.guardian.co.uk/bookerprize2005/story/0,16347,1590052,00.html)
