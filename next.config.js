@@ -116,6 +116,11 @@ module.exports = withBundleAnalyzer({
          destination: '/blog/2010/:slug*', // Matched parameters can be used in the destination
          permanent: true,
        },
+       {
+         source: '/about-me/',
+         destination: '/about/', // Matched parameters can be used in the destination
+         permanent: true,
+       },
      ]
    }
 })
